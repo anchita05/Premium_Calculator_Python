@@ -26,3 +26,14 @@ a)Calculator: to calculate their premium
 b)Update: to update their details in our database
 
 c)Delete: to delete their details from our database
+
+
+REFERENCE OUTPUTS:
+
+![Screenshot 2024-11-12 225532](https://github.com/user-attachments/assets/05027ae1-e9ef-4aa6-8291-36485ef63c1b)
+
+![image](https://github.com/user-attachments/assets/481bbce1-238a-4607-88ff-164a6355f493)
+
+![image](https://github.com/user-attachments/assets/5dd1635b-b0ad-4806-a417-f9603d2969d9)
+
+![image](https://github.com/user-attachments/assets/5d970d13-be5a-4750-b52e-34386e5cf493)
